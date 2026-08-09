@@ -1,0 +1,10 @@
+{
+  "resort": "WorldMark Seaside",
+  "city": "Seaside",
+  "state": "Oregon",
+  "check_in": "2027-07-11",
+  "check_out": "2027-07-18",
+  "sites": ["go-koala", "redweek"],
+  "alert_on": ["new_listing", "price_change", "availability_change"],
+  "headless": true
+}
