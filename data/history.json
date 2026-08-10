@@ -28,5 +28,20 @@
       }
     ],
     "errors": []
+  },
+  {
+    "checked_at": "2026-08-10T18:01:14.086788+00:00",
+    "listings": [
+      {
+        "site": "redweek",
+        "listing_id": "009544fec012d58a",
+        "title": "WorldMark Seaside",
+        "details": "Jul 1\u20138, 2027 7 Nights RedWeek Verified 3 Bedroom Unit, Partial ocean view Sleeps: 8 $400/night $3,140 total Rented!",
+        "price": "$400",
+        "url": "https://www.redweek.com/resort/P4912-worldmark-seaside/timeshare-rentals",
+        "date_match": "possible"
+      }
+    ],
+    "errors": []
   }
 ]
